@@ -13,6 +13,8 @@ una subcarpeta que indica el tipo de prueba que se realizo (Con obstrucción y s
 
 */ En el ANEXO C se encuentran cada una de las herramientas de estimación de posición utilizadas en el trabajo de grado
 
+***** Los scripts fueron realizados en el IDE de Matlab, con su propio lenguaje de programación.
+
 ***** los archivos ejecutables son los que tengan la extension .m las cuales se abren directamente con el IDE de matlab VERSION R2023a.
 
 ***** Ademas, se incluyen archivos .mat que son necesarios para la gráfica de la ruta.
